@@ -1,0 +1,5 @@
+# Core deps. For GUI camera preview on a desktop, swap -headless for opencv-python.
+opencv-python-headless>=4.8
+numpy>=1.24
+matplotlib>=3.7
+pytest>=7.0
