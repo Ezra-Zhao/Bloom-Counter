@@ -1,5 +1,10 @@
 # Bloom-Counter
 
+**[English](README.md)** | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Português](README.pt.md) | [Русский](README.ru.md)
+
+![Python 3.12](https://img.shields.io/badge/python-3.12-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-green) ![Status: demo](https://img.shields.io/badge/status-working_demo-orange)
+
+
 **Vision-based flower bloom / bud counting for smart agriculture and yield estimation.**
 
 Point a camera at a greenhouse bed or an orchard row; get back *how many flowers
